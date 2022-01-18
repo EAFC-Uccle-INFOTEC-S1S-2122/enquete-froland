@@ -1,0 +1,4 @@
+Quel est votre nom ?
+Quel est votre prénom ?
+Quelle est votre date de naissance (jj/mm/aaaa) ?
+Comment avez-vous entendu parler de l'école ?

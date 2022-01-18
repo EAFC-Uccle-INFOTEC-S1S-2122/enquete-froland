@@ -1,0 +1,2 @@
+# Fichier pour recevoir les questions et les réponses.
+# Son contenu sera écrasé à chaque exécution du programme enquete.py
